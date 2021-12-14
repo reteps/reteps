@@ -31,12 +31,11 @@ I enjoy reverse engineering and creating open-source libraries, as well as makin
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-### My Github Statistics
 [![Stats Card](<https://github-readme-stats.vercel.app/api?username=reteps&show_icons=true&theme=vue-dark&layout=compact&hide_rank=true&include_all_commits=true&count_private=true&custom_title=My GitHub Stats>)](https://github.com/reteps)
-[![Languages Card](<https://github-readme-stats.vercel.app/api/top-langs/?username=reteps&theme=vue-dark&layout=compact&custom_title=Top Languages by lines of code>)](https://github.com/reteps?tab=repositories)
 
-[![Visits Badge](https://badges.pufler.dev/visits/reteps/reteps)](https://github.com/reteps)
-
-### My projects
+### Projects
 
 I try to add descriptions to all my public github projects, feel free to explore!
+
+
+[![Visits Badge](https://badges.pufler.dev/visits/reteps/reteps)](https://github.com/reteps)
