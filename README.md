@@ -3,6 +3,7 @@
 ### I'm currently a student studying CS @ University of Illinois Urbana-Champaign!
 
 I enjoy reverse engineering and creating open-source libraries, as well as making websites using frameworks such as Django, Flask, React, Vue.
+
 ### Languages I've worked with:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -31,7 +32,11 @@ I enjoy reverse engineering and creating open-source libraries, as well as makin
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-[![Stats Card](<https://github-readme-stats.vercel.app/api?username=reteps&show_icons=true&theme=vue-dark&layout=compact&hide_rank=true&include_all_commits=true&count_private=true&custom_title=My GitHub Stats>)](https://github.com/reteps)
+### Hackathons
+
++ HackIllinois | AgroGen - A Machine Learning Prediction Service For Farmers [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/hackillinois-2022/project) [![GitHub](https://img.shields.io/badge/-devpost-103F53.svg)](https://devpost.com/software/agrogen)
+
+[![Stats Card](<https://github-readme-stats.vercel.app/api?username=reteps&show_icons=true&theme=vue-dark&layout=compact&hide_rank=true&include_all_commits=true&count_private=true&custom_title=My GitHub Stats>)](https://github.com/reteps) 
 
 ### Projects
 
