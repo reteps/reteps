@@ -36,8 +36,6 @@ I enjoy reverse engineering and creating open-source libraries, as well as makin
 
 + HackIllinois | AgroGen - A Machine Learning Prediction Service For Farmers [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/hackillinois-2022/project) [![GitHub](https://img.shields.io/badge/-devpost-103F53.svg)](https://devpost.com/software/agrogen)
 
-[![Stats Card](<https://github-readme-stats.vercel.app/api?username=reteps&show_icons=true&theme=vue-dark&layout=compact&hide_rank=true&include_all_commits=true&count_private=true&custom_title=My GitHub Stats>)](https://github.com/reteps) 
-
 ### Projects
 
 I try to add descriptions to all my public github projects, feel free to explore!
