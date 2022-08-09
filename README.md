@@ -39,6 +39,3 @@ I enjoy reverse engineering and creating open-source libraries, as well as makin
 ### Projects
 
 I try to add descriptions to all my public github projects, feel free to explore!
-
-
-[![Visits Badge](https://badges.pufler.dev/visits/reteps/reteps)](https://github.com/reteps)
