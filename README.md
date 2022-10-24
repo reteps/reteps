@@ -34,8 +34,10 @@ I enjoy reverse engineering and creating open-source libraries, as well as makin
 
 ### Hackathons
 
-+ HackIllinois | AgroGen - A Machine Learning Prediction Service For Farmers [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/hackillinois-2022/project) [![GitHub](https://img.shields.io/badge/-devpost-103F53.svg)](https://devpost.com/software/agrogen)
++ HackGT 9 | DataDefender - A chrome extension to track downstream data sales | Privacy & Security Winner [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/jtn26/DataDefenders) [![Devpost](https://img.shields.io/badge/-devpost-103F53.svg)](https://devpost.com/software/datadefender)
++ HackIllinois | AgroGen - A Machine Learning Prediction Service For Farmers [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/hackillinois-2022/project) [![Devpost](https://img.shields.io/badge/-devpost-103F53.svg)](https://devpost.com/software/agrogen)
 + BPA | Biohomes - A site to inform people about BioHomes | 1st in state (NTLs cancelled) [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/Huron-BPA-Webteam-2019) [![Website](https://img.shields.io/badge/-website-103F53.svg)](https://huron-bpa-webteam-2019.github.io)
+
 ### Projects
 
 I try to add descriptions to all my public github projects, feel free to explore!
